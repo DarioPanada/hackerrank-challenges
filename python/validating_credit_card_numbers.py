@@ -53,4 +53,4 @@ nums = ["7165863385679329",
         "5179123424576876"]
 
 for num in nums:
-    print(cc_valid("5252248277877418"))
+    print(cc_valid(num))
